@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutoC", "AutoC\AutoC.vcxproj", "{A91FD3C4-37D4-4844-BC4C-170B529D74EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A91FD3C4-37D4-4844-BC4C-170B529D74EA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A91FD3C4-37D4-4844-BC4C-170B529D74EA}.Debug|Win32.Build.0 = Debug|Win32
+		{A91FD3C4-37D4-4844-BC4C-170B529D74EA}.Release|Win32.ActiveCfg = Release|Win32
+		{A91FD3C4-37D4-4844-BC4C-170B529D74EA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
